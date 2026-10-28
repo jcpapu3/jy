@@ -1,0 +1,7 @@
+# Política de seguridad de Joyería Sapir
+# Si encuentras un problema de seguridad en este sitio, avísanos.
+Contact: mailto:CORREO-DE-LA-TIENDA@ejemplo.com
+Contact: https://wa.me/50760000000
+Expires: 2027-10-28T00:00:00.000Z
+Preferred-Languages: es, en
+Canonical: https://TU-USUARIO.github.io/TU-REPOSITORIO/.well-known/security.txt
